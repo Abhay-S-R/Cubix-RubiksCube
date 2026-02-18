@@ -2,7 +2,7 @@
 
 A modern, responsive e-commerce web application for selling high-performance puzzles. Built with React.js and Vite, featuring a complete shopping experience from product browsing to checkout.
 
-## ✨ Features
+## Features
 
 - **Dynamic Storefront**: Browse specialized puzzles (2x2, 3x3, 4x4) with real-time price filtering.
 - **Cart Management**: Add/remove items, adjust quantities, and view delivery cost estimates.
@@ -14,14 +14,14 @@ A modern, responsive e-commerce web application for selling high-performance puz
 - **Responsive Design**: Fully optimized for mobile, tablet, and desktop screens.
 - **Modern UI/UX**: Glassmorphism effects, smooth transitions, and toast notifications.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React 19, Vite
 - **Styling**: CSS3
 - **Icons**: Lucide React
 - **Backend**: Node.js, Express.js
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to get the project up and running on your local machine.
 
@@ -61,7 +61,7 @@ Follow these instructions to get the project up and running on your local machin
    ```
    _Frontend typically runs on http://localhost:5173_
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 rubiks-cube/
